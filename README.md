@@ -37,7 +37,6 @@ Here's a walkthrough of implemented required features:
 
 https://imgur.com/AkD3j7j
 
-<img src="https://imgur.com/a/5dKGDOY" height="100%" title="World Connect" alt="World Connect gif link could be broken " /></a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
 <!-- Recommended tools:
