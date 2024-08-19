@@ -1,0 +1,82 @@
+/* Card.css */
+
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 400px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+}
+
+.card h3 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.card p {
+  font-size: 1em;
+  color: #666;
+}
+
+.card a {
+  display: inline-block;
+
+  color: #4CAF50;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
+
+.card-buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px; /* Add spacing between buttons */
+}
+
+.edit-button, .delete-button {
+  padding: 10px 20px; /* Increased padding for larger buttons */
+  font-size: 1em; /* Increased font size for better readability */
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  flex: 1; /* Make buttons equally wide */
+  text-align: center; /* Center text in buttons */
+  transition: background-color 0.3s ease; /* Smooth transition for hover */
+}
+
+.edit-button {
+  background-color: #0056b3; /* Darker blue for better accessibility */
+  color: white;
+  text-decoration: none;
+}
+
+.edit-button:hover {
+  background-color: #004494; /* Slightly darker shade on hover */
+}
+
+.delete-button {
+  background-color: #d32f2f; /* Darker red for better accessibility */
+  color: white;
+}
+
+.delete-button:hover {
+  background-color: #c62828; /* Slightly darker shade on hover */
+}
