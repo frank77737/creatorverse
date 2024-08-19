@@ -37,7 +37,7 @@ Here's a walkthrough of implemented required features:
 
 <a href="https://imgur.com/AkD3j7j"><img src="https://imgur.com/AkD3j7j" height="100%" title="Code path" alt="Code path link could be broken " /></a> <p>
 ![Description](https://imgur.com/AkD3j7j.gif)
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="AkD3j7j"><a href="//imgur.com/AkD3j7j">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 [Imgur](https://i.imgur.com/AkD3j7j.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
