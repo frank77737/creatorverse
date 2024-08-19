@@ -35,6 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![Code path gif link broken](https://i.imgur.com/AkD3j7j.gif)
 
 
 <a href="https://imgur.com/AkD3j7j"><img src="https://i.imgur.com/AkD3j7j.gif" height="100%" title="Code path" alt="Code path gif link broken" /></a> <p>
