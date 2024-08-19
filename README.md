@@ -55,6 +55,7 @@ I made something similar in the past on my old github account. It has not been u
 https://github.com/FranklynCodes/SocialMedia001
 
 👉🏿<img src='https://imgur.com/Myu3VhC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://imgur.com/Myu3VhC"><img src="https://i.imgur.com/Myu3VhC.gif" height="100%" title="World Connect" alt="World Connect gif link could be broken " /></a> <p>
 
 ## License
 
