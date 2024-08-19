@@ -35,7 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/AkD3j7j
+
+
+<a href="https://imgur.com/AkD3j7j"><img src="https://imgur.com/AkD3j7j" height="100%" title="Code path" alt="Code path gif link broken" /></a> <p>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
