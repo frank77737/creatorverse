@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://imgur.com/a/5dKGDOY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<a href="https://imgur.com/a/5dKGDOY"><img src="https://imgur.com/a/5dKGDOY" height="100%" title="World Connect" alt="World Connect gif link could be broken " /></a> <p>
+<a href="https://imgur.com/AkD3j7j"><img src="https://imgur.com/AkD3j7j" height="100%" title="Code path" alt="Code path link could be broken " /></a> <p>
 
 
 
