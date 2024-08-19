@@ -35,8 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+👉🏿<img src='https://imgur.com/a/kspUUQG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
@@ -55,6 +54,7 @@ I made something similar in the past on my old github account. It has not been u
 
 https://github.com/FranklynCodes/SocialMedia001
 
+👉🏿<img src='https://imgur.com/Myu3VhC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
