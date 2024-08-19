@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a href="https://imgur.com/AkD3j7j"><img src="https://imgur.com/AkD3j7j" height="100%" title="Code path" alt="Code path link could be broken " /></a> <p>
+<a href="https://imgur.com/AkD3j7j"><img src="https://imgur.com/AkD3j7j.gif" height="100%" title="Code path" alt="Code path link could be broken " /></a> <p>
 
 
 
